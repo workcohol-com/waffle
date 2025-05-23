@@ -1,3 +1,1 @@
-function say_hello(){
-    console.log("hey world!");
-}
+console.log("I am learning Git.")
